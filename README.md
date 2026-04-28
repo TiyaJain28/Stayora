@@ -112,7 +112,7 @@ node init/updateGeometry.js
 
 ##  Screenshots
 <img width="1913" height="943" alt="image" src="https://github.com/user-attachments/assets/970c8d21-596e-4245-a66d-06cd2073991e" />
-<img width="1875" height="927" alt="image" src="https://github.com/user-attachments/assets/e844f54a-b12c-4bc2-997a-a570bc2c09a5" /><img width="1789" height="712" alt="image" src="https://github.com/user-attachments/assets/64459615-041d-4ec4-b5df-5feee831e58b" />
+<img width="1875" height="927" alt="image" src="https://github.com/user-attachments/assets/e844f54a-b12c-4bc2-997a-a570bc2c09a5" />
 
 
 
